@@ -1,12 +1,14 @@
 # Part 1
-# a
+
+## Part 1a
 1. Line 9 prints "values added: 20" because the scope of var is global.
 2. Line 13 prints "final result: 20" because the scope of var is global.
 3. Line 9 prints "values added: 20" because the scope of var is global.
 4. There is an error on this line because result is not defined. This is because using let makes it so that it cannot be accessed outside the block it is defined in.
 5. There is an error because you cannot assign values to a constant variable.
 6. There is an error because the variable is not defined. This is because using const makes it so that it cannot be accessed outside the block it is defined in.
-# b
+
+## Part 1b
 1. The number 3 will be printed. This is because this the final value which is assigned to i when the for loop is finished.
 2. The number 150 will be printed. This is because this is the final value which discountedPrice is assigned when the for loop is finished.
 3. The number 150 will be printed. This is because this it he last number that finalPrice is assigned in the for loop.
